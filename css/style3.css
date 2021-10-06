@@ -1,0 +1,31 @@
+body{
+    background:#b2bec3 ;
+    padding: 10;
+}
+body h1{
+    text-align: center;
+}
+#main{
+    background: darkgray;
+}
+#table_data{
+    padding: 15px;
+}
+#submit{
+    background: blueviolet;
+    color: white;
+    border-radius: 3px;
+    padding: 4px 10px;
+    outline: 0;
+    cursor:pointer;
+}
+.error_message{
+    background: wheat;
+    color: tomato;
+    border: 1px solid #e7ced1;
+}
+.success_message{
+    background: #e0efda;
+    color: green;
+    border: 1px solid #c6dfb2;
+}
